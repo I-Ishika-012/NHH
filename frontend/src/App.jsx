@@ -1,14 +1,12 @@
-
 import './App.css'
+import SmartRx from './smartrx'
 
 function App() {
 
 
   return (
     <>
-      <div>
-          <h1>SmartRx</h1>
-      </div>
+      <SmartRx />
     </>
   )
 }
